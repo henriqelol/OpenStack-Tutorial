@@ -15,7 +15,9 @@ cenário onde uma pessoa necessita de uma maquina virtual com algumas especifica
 - Armazenamento em bloco (Cinder)
 - Serviço de identidade (Keystone)
 
-Uma implantação do OpenStack contém [vários componentes](https://www.openstack.org/software/project-navigator/openstack-components#openstack-services) que fornecem APIs para acessar recursos de infraestrutura, cabe a você
+Uma implantação do OpenStack contém 
+[vários componentes](https://www.openstack.org/software/project-navigator/openstack-components#openstack-services) 
+que fornecem APIs para acessar recursos de infraestrutura, cabe a você
 verificar qual serviço melhor irá te atender conforme sua necessidade.
 
 ![](https://www.laintimes.com/wp-content/uploads/2020/02/schema-open-stack.png)
