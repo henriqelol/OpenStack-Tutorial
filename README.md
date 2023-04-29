@@ -1,4 +1,6 @@
-# OpenStack-Tutorial
+# Isso não é uma documentação (2023)
+
+## OpenStack-Tutorial
 
 Este repositório nada mais é do que o compartilhamento do meu conhecimento sobre OpenStack, onde apresentarei com
 base nos meus estudos, tutoriais e vídeos, deixando claro que este não é uma documentação, tutorial ou algo do gênero,
@@ -16,20 +18,20 @@ materiais [1](https://www.gta.ufrj.br/grad/15_1/openstack/index.html),
 [2](https://www.freecodecamp.org/portuguese/news/tutorial-do-openstack-administre-sua-nuvem-privada-curso-completo/)
 sobre OpenStack foram minha base de conhecimento sobre e eu super recomendo.
 
-## Bora começar do zero?
+### Bora começar do zero?
 
 O que é, o que ele faz e demais coisas conceituais técnicas ~~e chatas~~, basta dar uma olhada no conceito na
 [Wikipedia](https://pt.wikipedia.org/wiki/Openstack).
 
-## Como são organizados nos servidores?
+### Como são organizados nos servidores?
 
 ![Infraestrutura Openstack](https://www.freecodecamp.org/portuguese/news/content/images/2022/08/openstack.svg)
 
 Já manja dos conceitos? Então Let's Go!
 
-## Estrutura + ✅ Checks
+### Estrutura + ✅ Checks
 
-- [ ] [Introdução](https://github.com/henriqelol/OpenStack-Tutorial/Conteudo/Introducao.md)
+- [ ] [Introdução](https://github.com/henriqelol/OpenStack-Tutorial/blob/main/Conteudo/Instalacao.md)
 - [ ] [Instalação](https://github.com/henriqelol/OpenStack-Tutorial/Conteudo/Instalacao.md)
 - [ ] [Componentes](https://github.com/henriqelol/OpenStack-Tutorial/Conteudo/Componentes.md)
 - [ ] [Horizon](https://github.com/henriqelol/OpenStack-Tutorial/Conteudo/Horizon.md)
