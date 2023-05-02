@@ -4,7 +4,7 @@ O Horizon providencia uma interface gráfica para os usuários acessarem, provis
 
 Ao acessar o dashboard, uma tela similar a imagem abaixo será apresentada.
 
-![](/Conte%C3%BAdo/Images/dashboard2.png)
+![](/Conteudo/Images/dashboard2.png)
 
 ## O que devemos saber ? O que é possivel fazer ?
 
